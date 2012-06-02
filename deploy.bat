@@ -1,0 +1,1 @@
+echo yjljqvbzbabnpxxc | c:\python27\python.exe "C:\Program Files (x86)\Google\google_appengine\appcfg.py" --email=kurisui@gmail.com --passin update .
